@@ -1,0 +1,4 @@
+
+
+1--> https://www.kaggle.com/datasets/hopesb/student-depression-dataset
+2--> https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster
