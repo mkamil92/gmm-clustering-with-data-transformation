@@ -50,18 +50,18 @@ This repository demonstrates how **Gaussian Mixture Model (GMM)** clustering can
 
 ### 1. Obesity Dataset:
 - **Original GMM**:
-  - Silhouette Score: X.XX
+  - Silhouette Score: 0.138
   - Clusters were imbalanced and did not clearly represent obesity categories.
 - **Transformed Data with Yeo-Johnson**:
-  - Silhouette Score: X.XX (Improved)
+  - Silhouette Score: 0.527 (Improved)
   - Clusters were more balanced and better aligned with obesity levels.
 
 ### 2. Student Dataset:
 - **Original GMM**:
-  - Silhouette Score: X.XX
+  - Silhouette Score: 0.1433
   - Clusters did not align well with academic performance and behavioral features.
 - **Transformed Data with Yeo-Johnson**:
-  - Silhouette Score: X.XX (Improved)
+  - Silhouette Score: 0.5140 (Improved)
   - Clearer separation of clusters based on performance and participation metrics.
 
 ### Key Observations:
